@@ -1,0 +1,20 @@
+.avatar {
+  margin-top: 100px;
+  text-align: center;
+  padding: 20px;
+  border-bottom-style: solid;
+  border-bottom-color: rgba(211, 211, 211, 0.678);
+}
+.avatar-img {
+  height: 50px;
+  width: 50px;
+  transform: scale(3);
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+}
+.avatar-description-content {
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}

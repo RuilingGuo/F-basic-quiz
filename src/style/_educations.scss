@@ -1,0 +1,35 @@
+.eductions {
+  margin: 10px;
+}
+
+.eductions-title {
+  margin: 20px;
+  color: #ec7263;
+}
+
+.eductions-item-content {
+  padding: 0;
+  display: flex;
+}
+
+.item-content-year {
+  height: 50px;
+  width: 100px;
+}
+
+.item-content-description {
+  background-color: #ededed;
+  flex: 1;
+}
+
+.item-content-description h3,
+p {
+  color: black;
+  padding: 5px;
+}
+
+.item-content-description,
+.item-content-year {
+  margin: 10px;
+  padding: 10px;
+}
